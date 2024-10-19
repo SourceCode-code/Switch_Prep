@@ -1,0 +1,104 @@
+
+Goal Definition: Transition from 6.6 LPA to 14 LPA
+-------------------------------------------------
+Current Role: Automation Tester (Cypress, JavaScript)
+Target Role: Senior Automation Tester / SDET (Software Development Engineer in Test) / QA Lead
+Key Focus Areas:
+- Enhanced Automation Skills (Playwright, Cypress)
+- DevOps Integration (GitHub Actions, Git, CI/CD)
+- Agile Project Management (PSM1 Certification)
+- DSA (Data Structures and Algorithms)
+- Interview Preparation & Resume Updates
+
+Roadmap and Timeframe
+---------------------
+The roadmap is divided into three phases to progressively build the required skills:
+
+Phase 1: Core Automation & DevOps Skills (3-4 months)
+------------------------------------------------------
+1. Playwright (1-2 months)
+   - Why: Playwright is an advanced testing framework that supports cross-browser testing, giving you an edge over Cypress.
+   - Learning Path:
+     - Course: Playwright Testing - Udemy/YouTube
+     - Practice: Implement test automation on demo websites and contribute to open-source testing projects.
+   - Milestone: Build complex test automation suites using Playwright for a sample project or current work.
+
+2. Git, GitHub & GitHub Actions (1 month)
+   - Why: Version control and CI/CD skills are critical in DevOps-driven environments. GitHub Actions enables automation for CI/CD pipelines.
+   - Learning Path:
+     - Git Basics: Git Documentation
+     - GitHub Actions: GitHub Actions Official Guide
+     - Course: GitHub Actions for CI/CD - Udemy
+   - Practice: Set up GitHub Actions for automated testing and deployment in personal or work projects.
+   - Milestone: Automate test execution with GitHub Actions in your project.
+
+3. Cypress Advanced (Parallel to Playwright, 1 month)
+   - Why: Deepening your knowledge in Cypress ensures you can handle advanced testing scenarios.
+   - Learning Path:
+     - Course: Advanced Cypress
+     - Practice: Integrate Cypress with GitHub Actions for continuous testing.
+   - Milestone: Build and showcase a fully automated test suite integrated with CI/CD.
+
+Phase 2: Agile and Problem-Solving Skills (2-3 months)
+-------------------------------------------------------
+4. PSM1 (Professional Scrum Master I Certification) (1 month)
+   - Why: Agile certifications like PSM1 add value to automation testers by showing a deep understanding of Agile/Scrum processes.
+   - Learning Path:
+     - Scrum Guide: Scrum.org - Scrum Guide
+     - Course: PSM1 Preparation Course - Udemy
+   - Practice: Participate in Agile ceremonies, and try out Jira/Confluence for sprint management.
+   - Milestone: Pass the PSM1 certification exam.
+
+5. DSA in JavaScript (2 months)
+   - Why: Knowledge of Data Structures and Algorithms (DSA) is essential for technical interviews and problem-solving.
+   - Learning Path:
+     - Course: JavaScript Algorithms & Data Structures - freeCodeCamp
+     - Practice: Solve problems on LeetCode, HackerRank.
+   - Milestone: Solve 50-100 problems on platforms like LeetCode. Target easy and medium-level problems first.
+
+6. Soft Skills: Communication and Problem-Solving (Ongoing)
+   - Why: Senior roles require better communication and problem-solving abilities.
+   - Learning Path:
+     - Book: Crucial Conversations by Patterson, Grenny, et al.
+     - Podcast: TestGuild Automation Testing Podcast
+   - Milestone: Actively contribute to meetings, explaining test strategies and findings confidently.
+
+Phase 3: Advanced Technical & Job Transition Preparation (2-3 months)
+---------------------------------------------------------------------
+7. Fullstack Automation Engineer (Optional but Beneficial)
+   - Why: Becoming a full-stack automation engineer expands your technical horizons and increases your market value.
+   - Learning Path:
+     - Course: Fullstack Test Automation with Playwright
+   - Milestone: Implement an end-to-end test strategy, from backend APIs to frontend UI.
+
+8. Interview Prep & Job Search (2 months)
+   - Resume Building: Update your resume with new skills, GitHub contributions, and certifications.
+     - Resource: Resume Templates - Novoresume
+   - Mock Interviews: Practice with peers or platforms like Pramp, focusing on DSA and automation.
+   - Job Portals: Target mid-senior roles via LinkedIn, Naukri, and specialized job boards like AngelList.
+   - Salary Negotiation: Research industry standards and confidently negotiate based on your newly acquired skills.
+     - Resource: Never Split the Difference by Chris Voss (for salary negotiation tips).
+
+9. Certifications and Portfolio
+   - Add the following to your resume:
+     - PSM1 Certification (Agile Proficiency)
+     - Playwright, Cypress Automation Skills (via GitHub projects)
+     - GitHub Actions/CI-CD Pipelines (for automation testing)
+     - DSA Proficiency (with competitive coding experience)
+
+Additional Resources
+---------------------
+Testing Communities:
+- Ministry of Testing
+- Automation Testing Blogs
+
+GitHub & Automation Practice:
+- Contribute to open-source projects or create personal automation projects, showcasing them in your GitHub profile.
+
+Summary: Key Milestones
+------------------------
+- Automation Skills (Cypress, Playwright): Advanced proficiency, set up GitHub Actions for CI/CD pipelines.
+- Agile Methodology: Get PSM1 certified.
+- DSA in JavaScript: Solve 50-100 problems on LeetCode.
+- Resume and Interview Preparation: Tailor your resume and practice mock interviews.
+- Salary Negotiation: Confidently negotiate for 14+ LPA roles with the new skill set.
