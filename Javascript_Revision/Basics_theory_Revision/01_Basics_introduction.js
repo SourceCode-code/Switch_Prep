@@ -21,4 +21,3 @@ let x = 20 //indicates a variable value which can  be upadated or re assign its 
 const pi=3.1423 // indicates a constant value which can not be upadated or re assign its a block scope varaiable
 var y=30 ////indicates a variable value which can  be upadated or re assign its a function scope varaiable (var was the oldest way to delerae the varaible in js ).
 
-//testting
